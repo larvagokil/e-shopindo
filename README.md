@@ -9,7 +9,7 @@ Website ini dibuat dengan menggunakan :
 
 Demo Tampilan Web bisa dilihat di : http://tokokel1.000webhostapp.com/
 
-Dibuat oleh Kelompok 1 | Kelas 17.4B.11, yang 
+Dibuat oleh Kelompok 1 | Kelas 17.4B.11 :
   1. 17190739 Syifa Octavia Damayanthi
   2. 17190401 Akhmad Nur Ghazi
   3. 17190403 Muhammad Illyas ilmawan
