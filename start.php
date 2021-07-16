@@ -5,7 +5,7 @@
   <hr class="my-4">
   <?php if (!isset($_SESSION["login"])) { ?>
   <p>Belum punya Akun..?, Daftar Sekarang..!</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button" data-bs-toggle="tooltip" title="Daftar Disini">Daftar</a>
+  <a class="btn btn-primary btn-lg" href="register.php" role="button" data-bs-toggle="tooltip" title="Daftar Disini">Daftar</a>
   <?php } ?>
   
 </div>
