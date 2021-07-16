@@ -3,8 +3,9 @@ E - Shopindo adalah Web toko online sederhana yang dibuat untuk memenuhi tugas a
 Website ini dibuat dengan menggunakan :
   1. HTML 
   2. PHP  
-  3. Framework CSS Bootstrap 5 serta dengan 
-  4. sedikit Javascript. 
+  3. Framework CSS Bootstrap 5 
+  4. CKEditor 4
+  5. sedikit Javascript. 
 
 Demo Tampilan Web bisa dilihat di : http://tokokel1.000webhostapp.com/
 
