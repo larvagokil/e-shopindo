@@ -28,19 +28,6 @@
             text-decoration:none;
         }
 
-        .jumbotron {
-            background-color: #e9ecef;
-            padding : 2rem 1rem;
-        }
-
-        .kotak-produk {
-            background-color: #FFF;
-            margin: 0.5rem 0.5rem;
-            width: 170px;
-            height: 300px;
-            float:left;
-        }
-
         .clear {
             clear: left;
         }
@@ -72,7 +59,6 @@
                 Hai <?= $_SESSION["user"]; ?>
                 </a>
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-                    <li><a class="dropdown-item" href="#">Profil</a></li>
                     <?php if($_SESSION["role"] === "admin") {?>
                     <li><a class="dropdown-item" href="../index.php">User page</a></li>
                     <?php }?>
